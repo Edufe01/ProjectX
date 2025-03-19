@@ -1,5 +1,6 @@
 # ProjectX
 unforgiveness
+                    
                     Tentando aprender a programar em java de primeira, sem desistir.
 
 Não faço ideia sobre como programar, me interessei pois sempre tive contato com computador, porém sempre o usei para jogos, apenas. Todos em minha volta sempre diziam que essa área de “Ti“ é bastante promissora, e que a possivilidade de eu ganhar bastante grana é bem alta.
